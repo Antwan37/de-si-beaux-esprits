@@ -6,6 +6,8 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.7",
   "compatibleCoreVersion": "0.7.9",
+  "systems": ["coc"],
+    "author": "Zigmund",
   "packs": [
       {
         "name": "illustrations-dsbe",
