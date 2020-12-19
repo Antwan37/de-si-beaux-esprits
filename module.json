@@ -10,7 +10,7 @@
       {
         "name": "illustrations-dsbe",
         "label": "Illustrations Ambiance",
-        "path": "packs/illstrations-dsbe.db",
+        "path": "packs/illustrations-dsbe.db",
         "entity": "JournalEntry",
         "module": "de-si-beaux-esprits"
       },
