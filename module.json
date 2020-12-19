@@ -4,8 +4,8 @@
   "description": "Un OS pour Chroniques Oubliées Cthulhu, écrit par Maxime Chattam",
   "author": "Antwan",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.5",
-  "compatibleCoreVersion": "0.7.1",
+  "minimumCoreVersion": "0.7",
+  "compatibleCoreVersion": "0.7.9",
   "packs": [
       {
         "name": "illustrations-dsbe",
