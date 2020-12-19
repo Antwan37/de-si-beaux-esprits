@@ -48,7 +48,14 @@
         "path": "packs/scenes-dsbe.db",
         "entity": "Scene",
         "module": "de-si-beaux-esprits"
-      }
+      },
+      {
+        "name": "playlist",
+        "label": "Musique & Bruitages",
+        "path": "packs/playlist.db",
+        "entity": "Playlist",
+        "module": "de-si-beaux-esprits"
+      },
     
     ],
     "url": "https://github.com/Antwan37/de-si-beaux-esprits.git",
