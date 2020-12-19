@@ -10,33 +10,55 @@
   "author": "Zigmund",
   "packs": [
       {
-        "name": "cof-vengeance-heroes",
-        "label": "Prétirés Vengeance",
-        "path": "packs/heroes.db",
-        "entity": "Actor",
-        "module": "cof-vengeance"
+        "name": "illustrations-dsbe",
+        "label": "Illustrations Ambiance",
+        "path": "packs/illstrations-dsbe.db",
+        "entity": "Journal Entries",
+        "module": "de-si-beaux-esprits"
       },
       {
-        "name": "cof-vengeance-encounters",
-        "label": "Rencontres Vengeance",
-        "path": "packs/encounters.db",
-        "entity": "Actor",
-        "module": "cof-vengeance"
+        "name": "item-dsbe",
+        "label": "Inventaire",
+        "path": "packs/item-dsbe.db",
+        "entity": "Items",
+        "module": "de-si-beaux-esprits"
       },
       {
-        "name": "cof-vengeance-capacities",
-        "label": "Capacités Vengeance",
-        "path": "packs/capacities.db",
-        "entity": "Item",
-        "module": "cof-vengeance"
+        "name": "playlist",
+        "label": "Musique Bruitage",
+        "path": "packs/playlist.db",
+        "entity": "Playlits",
+        "module": "de-si-beaux-esprits"
       },
       {
-        "name": "cof-vengeance-scenes",
-        "label": "Scènes Vengeance",
-        "path": "packs/scenes.db",
-        "entity": "Scene",
-        "module": "cof-vengeance"
+        "name": "pnj-dsbe",
+        "label": "Les PNJ",
+        "path": "packs/pnj-dsbe.db",
+        "entity": "Actors",
+        "module": "de-si-beaux-esprits"
       }
+      {
+        "name": "pretires-dsbe",
+        "label": "Les PJ Prétirés",
+        "path": "packs/pretires-dsbe.db",
+        "entity": "Actors",
+        "module": "de-si-beaux-esprits"
+      }
+      {
+        "name": "profil-dsbe",
+        "label": "Profil custom",
+        "path": "packs/profil-dsbe.db",
+        "entity": "Items",
+        "module": "de-si-beaux-esprits"
+      }
+      {
+        "name": "scenes-dsbe",
+        "label": "Les battlemaps",
+        "path": "packs/scenes-dsbe.db",
+        "entity": "Scenes",
+        "module": "de-si-beaux-esprits"
+      }
+    
     ],
     "url": "https://github.com/ZigmundKreud/cof-vengeance.git",
     "manifest": "https://github.com/ZigmundKreud/cof-vengeance/-/raw/master/module.json",
