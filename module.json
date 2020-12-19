@@ -34,21 +34,21 @@
         "path": "packs/pnj-dsbe.db",
         "entity": "Actors",
         "module": "de-si-beaux-esprits"
-      }
+      },
       {
         "name": "pretires-dsbe",
         "label": "Les PJ Prétirés",
         "path": "packs/pretires-dsbe.db",
         "entity": "Actors",
         "module": "de-si-beaux-esprits"
-      }
+      },
       {
         "name": "profil-dsbe",
         "label": "Profil custom",
         "path": "packs/profil-dsbe.db",
         "entity": "Items",
         "module": "de-si-beaux-esprits"
-      }
+      },
       {
         "name": "scenes-dsbe",
         "label": "Les battlemaps",
