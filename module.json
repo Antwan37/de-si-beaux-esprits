@@ -55,7 +55,7 @@
         "path": "packs/playlist.db",
         "entity": "Playlist",
         "module": "de-si-beaux-esprits"
-      },
+      }
     
     ],
     "url": "https://github.com/Antwan37/de-si-beaux-esprits.git",
