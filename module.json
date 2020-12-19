@@ -22,13 +22,6 @@
         "module": "de-si-beaux-esprits"
       },
       {
-        "name": "playlist",
-        "label": "Musique Bruitage",
-        "path": "packs/playlist.db",
-        "entity": "Playlist",
-        "module": "de-si-beaux-esprits"
-      },
-      {
         "name": "pnj-dsbe",
         "label": "Les PNJ",
         "path": "packs/pnj-dsbe.db",
